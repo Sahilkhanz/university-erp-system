@@ -9,5 +9,7 @@ public class UniversityErpBackendApplication {
     public static void main(String[] args) {
         SpringApplication.run(UniversityErpBackendApplication.class, args);
         System.out.println("hello");
+        System.out.println("hi,shahroz this side");
+
     }
 }
